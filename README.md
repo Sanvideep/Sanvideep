@@ -9,8 +9,6 @@ I’m **Sanvi**, a data analyst who vibes with machine learning, data storytelli
 ### 🧠 What I Love Working On
 - Data Analysis & Visualization  
 - Machine Learning Models for Real Problems  
-- Business Intelligence Dashboards  
-- Automating Reports & Processes  
 - Analytics for Supply Chain & Healthcare
 
 ---
@@ -23,17 +21,6 @@ I’m **Sanvi**, a data analyst who vibes with machine learning, data storytelli
 **Creative Tools:** Adobe After Effects, Photoshop, DaVinci Resolve, Canva  
 
 Yes, I do both analytics and editing — data looks better when the visuals pop! 🎨📊
-
----
-
-### 🚀 Highlight Projects
-📌 **Diabetes Prediction ML Model**  
-> Built a complete ML pipeline with EDA, LOF outlier removal, feature scaling, and tuned models including SVM, Random Forest, XGBoost & LightGBM.
-
-📌 **Automated Sales Dashboard (SQL + Power BI)**  
-> Cleaned, analyzed, and visualized large-scale sales data — boosting business insights and driving smarter decisions.
-
-More pinned projects coming soon… 👀
 
 ---
 
