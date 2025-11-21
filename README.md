@@ -34,7 +34,8 @@ Yes, I do both analytics and editing — data looks better when the visuals pop!
 
 ### 💬 Let’s Connect!
 📩 **sanvideep2112@gmail.com**  
-🔗 **LinkedIn | GitHub**
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/)  
+💻 [GitHub](https://github.com/YOUR-USERNAME)
 
 ---
 
